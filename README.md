@@ -1,0 +1,2 @@
+# Troko
+Asistente IA
